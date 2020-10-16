@@ -6,7 +6,7 @@
       <Copyright>Copyright (c) 2015-2018 MikaelGRA</Copyright>
       <AssemblyTitle>InfluxDB Client for .NET</AssemblyTitle>
       <Authors>MikaelGRA</Authors>
-      <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
+      <TargetFrameworks>netstandard2.0</TargetFrameworks>
       <AssemblyName>Vibrant.InfluxDB.Client</AssemblyName>
       <PackageId>Vibrant.InfluxDB.Client</PackageId>
       <PackageTags>influxdb;nosql;timeseries;data</PackageTags>
